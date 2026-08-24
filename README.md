@@ -1,2 +1,3 @@
 # SuServer
-SuServer"s Website
+SuServer"s Website(Only Chinese)
+mc.speroo.top
